@@ -1,7 +1,5 @@
 import random
 import getch
-#import tkinter as tk
-#from tkinter import messagebox
 
 class SoteloGame:
     def __init__(self, size=5):
